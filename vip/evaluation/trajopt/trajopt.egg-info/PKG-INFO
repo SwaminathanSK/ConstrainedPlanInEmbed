@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: trajopt
+Version: 1.0.0
+Summary: Trajectory optimization algorithms for environments in MuJoCo
+Author: Aravind Rajeswaran
+License-File: LICENSE
